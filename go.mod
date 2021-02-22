@@ -1,5 +1,5 @@
-module github.com/kv0s/cmd-programmer-org
+module larsendr/cmd-programmer-org
 
-go 1.14
+go 1.16
 
-require github.com/kv0s/openhpsdr v0.1.4
+require github.com/larsendr/openhpsdr v0.1.4

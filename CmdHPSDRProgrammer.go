@@ -14,7 +14,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/kv0s/openhpsdr"
+	"github.com/larsendr/openhpsdr"
 )
 
 const version string = "0.1.4"
